@@ -20,6 +20,9 @@
 Datasets used:
 
 - [transaction_data](https://github.com/Horiz0nT/Miniproject_4/blob/main/transaction_data.csv)
+- [trancsaction_data_updated](https://github.com/Horiz0nT/Miniproject_4/blob/main/transaction_data_updated.csv)
 
 Project itself:
+
+[GH_Miniproject_4](https://github.com/Horiz0nT/Miniproject_4/blob/main/GH_miniproject_4.ipynb)
 
